@@ -139,6 +139,31 @@ ul {
   cursor: pointer;
 }
 
+.input-container {
+  margin: 0 auto;
+  max-width: 584px;
+  width: auto;
+}
+
+.input-form-container {
+  width: 100%;
+  padding-top: 6px;
+  background-color: #fff;
+  display: flex;
+  border: 1px solid #dfe1e5;
+  box-shadow: none;
+  border-radius: 24px;
+  z-index: 3;
+  height: 44px;
+  margin: 0 auto;
+  width: 482px;
+  flex-direction: row;
+  align-items: center;
+}
+
+.input-form {
+}
+
 .btn-row {
   display: flex;
   flex-direction: row;
